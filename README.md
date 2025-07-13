@@ -1,8 +1,5 @@
 # personality-classification-ml
 Predicting personality types (Introvert vs Extrovert) from lifestyle traits using logistic regression, SVM, and XGBoost etc.
-# Personality Classification: Introvert vs Extrovert
-
-Predicting Introvert vs Extrovert personality types using behavioral traits and 6 ML models (SVM, XGBoost, etc.)
 
 ---
 
