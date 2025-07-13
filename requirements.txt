@@ -1,0 +1,9 @@
+This project is done on Jupyter notebook with pip version 25.1.1 and Python 3.12 
+
+The libraries I used:
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- xgboost
