@@ -18,7 +18,7 @@ Can personality type be predicted based on lifestyle habits like time spent alon
 ## 🗃️ Dataset
 
 - **Size:** 2,900 records  
-- **Source:**This dataset was provided by my university professor in its raw, unprocessed form for academic purposes. It is based on the publicly available Kaggle Extrovert vs. Introvert Behavior Data.
+- **Source:** This dataset was provided by my university professor in its raw, unprocessed form for academic purposes. It is based on the publicly available Kaggle Extrovert vs. Introvert Behavior Data.
 - **Features:**
   - Time_spent_Alone
   - Stage_fear
